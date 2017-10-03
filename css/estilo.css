@@ -210,14 +210,15 @@ h1 {
 }
 #cor2 h4{
   margin-top: 20px;
-  font-size: 25px;
+  font-size: 20px;
 
 }
 #cor2 a{
-	padding: 3px;
+	padding: 10px;
 	border-bottom: 2px solid #fff;
 	text-decoration: none;
 	color: #fff;
+	
 	
 }
 #cor2 h3{
