@@ -38,7 +38,7 @@ body p,h1,h2,h3,h4,li,ol,span,b{
 	color:#000000;
 }
 .modal-body{
-	background: url('../img/ferramenta.jpg');
+	background-color:#19B5FE;
 	background-repeat: no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
