@@ -38,7 +38,7 @@ body p,h1,h2,h3,h4,li,ol,span,b{
 	color:#000000;
 }
 .modal-body{
-	background-color:#19B5FE;
+	background-color:#000000;
 	background-repeat: no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
@@ -278,15 +278,17 @@ h1 {
 }
 .mais i,span{
 	color: #FFB42E;
-	font-size: 30px;
+	font-size: 25px;
 	text-shadow: 1px 1px 1px #000000;
 	padding: 10px;
+	margin-left:5px;
 
 
 }
 .mais b{
 	color: #FFB42E;
-	font-size: 30px;
+	font-size: 25px;
+	margin-left:5px;
 	text-shadow: 1px 1px 1px #000000;
 
 }
