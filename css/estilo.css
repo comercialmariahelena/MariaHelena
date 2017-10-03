@@ -260,6 +260,12 @@ h1 {
 #preto{
 	background-color: #000000;
 }
+#myCarousel{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
 .mais span{
 	color: #000000;
 	text-shadow: 1px 1px #fff;
