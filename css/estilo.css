@@ -422,8 +422,13 @@ h1 {
 	box-shadow:1px 1px 1px #fff;
 
 }
-#topo a{
+#voltar a{
 	color:#000000;
-	border:solid 2px 2px 2px #000000;
-	text-decoration:none;
-
+	text-decoration: none;
+	border:#000000 solid 2px;
+	padding: 10px;
+	margin-right: 140px;
+}
+#voltar a:hover{
+	background-color: #fff;
+}
