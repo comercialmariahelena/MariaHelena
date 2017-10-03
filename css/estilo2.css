@@ -12,7 +12,7 @@ body {
     overflow-y: scroll;
     perspective: 1px;
 }
-body p,h1,h2,h3,li,ol{
+body p,h1,h2,h3,h4,li,ol{
 	font-family: 'Philosopher', sans-serif;
 
 }
