@@ -131,7 +131,11 @@ h1 {
 	 text-shadow: 1px 1px  #fff;
 }
 #sessao4 {
-	background-color: #FFA400;
+	background: url('../img/nuvem.jpg');
+	background-size: cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
 	transform: translateZ(-1px) scale(2);
 	background-size: cover;
 	z-index: -1;
