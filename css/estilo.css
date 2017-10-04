@@ -139,15 +139,8 @@ h1 {
 	transform: translateZ(-1px) scale(2);
 	background-size: cover;
 	z-index: -1;
-  background-size: 100% 100%;
-  animation: BackgroundGradient 60s ease infinite;
 }
-/*orientação de rotação da imagem*/
-@keyframes BackgroundGradient{
-  0%{background-position: 0% 50%;}
-  50%{background-position: 100% 100%;}
-  100%{background-position: 0% 50%;}
-}
+
 #sessao4 p{
 	color: #fff; font-size: 30px;
 }
