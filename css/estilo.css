@@ -185,7 +185,9 @@ h1 {
 	padding: 8px;
 	font-size: 20px;
 	transition: 1s;
+	border:2px solid #fff;
 	background:#52B3D9;
+	font-family: 'Philosopher', sans-serif;
 }
 #cor1{
 	background-color: #000000;
