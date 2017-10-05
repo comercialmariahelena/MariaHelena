@@ -92,11 +92,12 @@ h1:nth-child(15){
 	font-family: 'Libre Barcode 39 Extended Text', cursive;
 	transition: 0.2s;
 	text-shadow: 1px 1px 0px #000000;
-    text-decoration: none;	
+        text-decoration: none;	
+	color:#fff;
 }
 
 #btn a:hover{
-	color:#fff;
+	color:#3498DB;
 
 }
 h2{
