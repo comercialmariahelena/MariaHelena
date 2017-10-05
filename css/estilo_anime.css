@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Philosopher');
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 body{
 	background: url('../img/restaura.jpg');
 	background-repeat: no-repeat;
@@ -93,7 +94,15 @@ h1:nth-child(15){
 	text-shadow: 1px 1px 0px #000000;
     text-decoration: none;	
 }
+
 #btn a:hover{
 	color:#fff;
 
+}
+h2{
+        color:#000000;
+	font-size: 30px;
+	text-shadow: 1px 1px 0px #fff;
+	font-family: 'Raleway', sans-serif;
+   	
 }
