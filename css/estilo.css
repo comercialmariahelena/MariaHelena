@@ -175,16 +175,17 @@ h1 {
 	text-decoration: none;
 
 }
-#conteudo #btn_port:hover{
+/*#conteudo #btn_port:hover{
 	color:#fff;
 	text-shadow: #000000;
-	border:3px solid #fff; 
-}
+	border:3px solid #fff;
+}*/
 #btn_port{
 	color: #000000;
 	padding: 8px;
 	font-size: 35px;
 	transition: 1s;
+	background:#52B3D9;
 }
 #cor1{
 	background-color: #000000;
