@@ -314,6 +314,10 @@ h1 {
 	height: 680px;
 	border: 5px solid #fff;
 }
+#compartilhe h4{
+	color:#fff;
+	font-size:14px;
+}
 /*compartilhe no tamano de dispositivos móveis*/
 #compartilhe_one h2{
 	border-top: 1px solid #fff;
