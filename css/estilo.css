@@ -336,6 +336,10 @@ h1 {
 	color: #6C9FC4;
 	margin-top: 20px;
 }
+#compartilhe_one h4{
+	color:#fff;
+	font-size:14px;
+}
 #compartilhe_one #btn_comp{
 	border: solid 2px #6C9FC4;
 	background-color: #000000;
